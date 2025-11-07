@@ -6,6 +6,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <meta name="theme-color" content="#238636">
+    <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="shortcut icon" type="image/png" href="./img/ProgramadorFitness.png">
+    <link rel="manifest" href="./manifest.json">
+
     <link rel="apple-touch-icon" href="assets/landing/img/profealbeiro.png">
     <link rel="shortcut icon" href="assets/landing/img/profealbeiro.png">
 

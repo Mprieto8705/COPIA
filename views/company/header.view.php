@@ -6,8 +6,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="apple-touch-icon" href="assets/landing/img/apple-icon.png">
-    <link rel="shortcut icon" type="image/x-icon" href="assets/landing/img/favicon.ico">
+    <link rel="apple-touch-icon" href="assets/landing/img//profealbeiro.png">
+    <link rel="shortcut icon" href="assets/landing/img/profealbeiro.png">
 
     <link rel="stylesheet" href="assets/landing/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/landing/css/templatemo.css">
